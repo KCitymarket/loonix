@@ -1,0 +1,35 @@
+// name		dark	light 
+// black	0	8 
+// red		1	9 
+// green	2	10 
+// yellow	3	11 
+// blue		4	12 
+// purple	5	13 
+// cyan		6	14 
+// white	7	15 
+
+
+
+
+
+!! appearance
+
+*.alpha:		    0.9
+*.linespace:		1
+*.font:			    Liberation Mono:style=Regular:size=12
+*.boldFont:		    Liberation Mono:style=Bold:size=12
+*.italicFont:		Liberation Mono:style=Italic:size=12
+*.boldItalicFont:	Liberation Mono:style=Bold Italic:size=12
+*.scrollbar:		false
+//*.internalBorder:	26
+
+#include "/home/jerry/.cache/wal/colors.Xresources"
+
+
+
+dwm.normbordercolor:color1
+dwm.normbgcolor:color2
+dwm.normfgcolor:color3
+dwm.selbordercolor:color4
+dwm.selbgcolor:color5
+dwm.selfgcolor:color6
