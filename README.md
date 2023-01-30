@@ -1,10 +1,12 @@
 # loonix
 linux files game of the year edition 2014
 
-
-checklist: <br>
-pywal (wallpaper and colorscheme) <br>
-compton (for the reddit linux rice transparent terminal meme) <br>
-le shité nvidia thing (for vsync) <br>
-clc.sh in /usr/src/ (dmenu clock script) <br>
-rc.conf is for ranger
+## Remember:
+- clc.sh to /usr/src (should add to path but i'm all out of marlboro cigarétes)
+- rc.conf to ~/.config/ranger
+- ueberzug, mpv or feh for ranger
+- Compton or picom or whatever for alphast
+- flameshot for screenshots
+- pywal for le epic reddit linuxrice meme
+- Install graphics drivers or dont whatever
+- Sudo make clean install dwm, st, dmenu
