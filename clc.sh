@@ -11,7 +11,8 @@ has_battery() {
 }
 get_battery_status() {
     charge="$(get_charge)"
-    echo ""$icon" "$charge"%"
+    #echo ""$icon"
+   echo  ""$charge"%"
 }
 
 get_charging_status() {

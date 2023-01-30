@@ -53,9 +53,9 @@ xclock -geometry 50x50-1+1 &
 xterm -geometry 80x50+494+51 &
 xterm -geometry 80x20+494-0 &
 exec xterm -geometry 80x66+0+0 -name login &
-exec setxkbmap fi &
-exec wal -R &
+# exec setxkbmap fi &
 exec dwm & 
+exec wal -R &
 exec compton &
 exec sh /usr/src/clc.sh 
 # exec nvidia-settings --assign CurrentMetaMode="nvidia-auto-select +0+0 { ForceFullCompositionPipeline = On }"
